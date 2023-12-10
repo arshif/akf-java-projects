@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "akf-genai-projects"
+  },
+  "targets": {
+    "akf-genai-projects": {
+      "hosting": {
+        "gen-app-builder-chat.web.app": [
+          "gen-app-builder-chat.web.app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
