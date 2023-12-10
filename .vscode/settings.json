@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "akf-java-projects",
+        "akf-genai-projects"
+    ]
+}
